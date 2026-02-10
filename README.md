@@ -10,7 +10,7 @@ This project features a dynamic video grid, collapsible sidebar, and functional 
   <img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Font Awesome" />
 </p>
 
-### <a href="https://hadesoo7.github.io/youtube-clone">View Live Demo 🚀</a>
+### <a href="https://hadesoo7.github.io/YT-clone/">View Live Demo 🚀</a>
 
 <br />
 
@@ -91,3 +91,4 @@ To run this project locally on your machine, follow these steps.
 ├── index.html          # Main structure
 ├── styles.css          # Styling and layout
 └── script.js           # Dynamic logic
+

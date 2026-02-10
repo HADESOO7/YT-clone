@@ -71,11 +71,11 @@ To run this project locally on your machine, follow these steps.
 
 1.  **Clone the repository**
     ```sh
-    git clone [https://github.com/HADESOO7/YouTube-Clone.git](https://github.com/HADESOO7/YouTube-Clone.git)
+    git clone https://github.com/HADESOO7/YT-clone.git
     ```
 2.  **Navigate to the project directory**
     ```sh
-    cd YouTube-Clone
+    cd YT-clone
     ```
 3.  **Open the file**
     Double-click `index.html` to launch the application in your default browser.
@@ -91,4 +91,5 @@ To run this project locally on your machine, follow these steps.
 ├── index.html          # Main structure
 ├── styles.css          # Styling and layout
 └── script.js           # Dynamic logic
+
 
